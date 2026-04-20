@@ -30,7 +30,7 @@ The agent will work through each question in `math_questions.md` and print the R
 
 Add your recording link here before submitting:
 
-- Video: `PASTE-YOUR-ZOOM-OR-YOUTUBE-LINK-HERE`
+- Video: [YouTube Walkthrough](https://youtu.be/26sUjGmRUOc)
 
 ## Files
 
